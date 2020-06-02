@@ -1,3 +1,3 @@
 # Bird-Eye-proyect
 Proyecto del cambio de perspectiva y deteccion de personas en peligro
-![]Perspectiva_utilizada.jpg
+![](Perspectiva_utilizada.jpg)
